@@ -1,4 +1,5 @@
 # Food---Restaurant-Front-End-Website-
 
 
-front end website 
+Modify design to create a responsive page using Bootstrap. 
+Front end Web application using HTML, CSS, Bootstrap, JavaScript
